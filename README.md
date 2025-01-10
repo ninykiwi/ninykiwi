@@ -16,7 +16,7 @@ def profile():
     return {
         "pronoums": "she' | "her",
         "nick": "ninykiwi" | "niny",
-        "favorite_things_ever": "osu" | "card captor Sakura" | "sudoku" | "cats",
+        "favorite_things_ever": "osu" | "card captor sakura" | "cats",
     }
 
     user_profile = profile()
