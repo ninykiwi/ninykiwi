@@ -5,7 +5,7 @@ Olá! 👋 Eu sou Stefanny
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefannypdao) 
 
-# 💻 Tech Stack:
+## 💻 Main Technologies:
 ![Java](https://img.shields.io/badge/java-%23b19cd9.svg?style=for-the-badge&logo=openjdk&logoColor=b19cd9&labelColor=000000) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23b19cd9.svg?style=for-the-badge&logo=typescript&logoColor=b19cd9&labelColor=000000) 
 ![Python](https://img.shields.io/badge/python-%23b19cd9.svg?style=for-the-badge&logo=python&logoColor=b19cd9&labelColor=000000) 
@@ -22,7 +22,7 @@ Olá! 👋 Eu sou Stefanny
 ![ESLint](https://img.shields.io/badge/ESLint-%23b19cd9.svg?style=for-the-badge&logo=eslint&logoColor=b19cd9&labelColor=000000) 
 ![Docker](https://img.shields.io/badge/docker-%23b19cd9.svg?style=for-the-badge&logo=docker&logoColor=b19cd9&labelColor=000000)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align=center>
  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ninykiwi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=b19cd9&text_color=ffffff&icon_color=white&bg_color=000000" />
@@ -30,6 +30,6 @@ Olá! 👋 Eu sou Stefanny
 
 </p>
 
-[![Stefanny Oliveira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ninykiwi&theme=dracula&title_color=b19cd9&color=b19cd9&point=b19cd9&line=ffffff&bg_color=000000)](https://github.com/ninykiwi/github-readme-activity-graph)
+[![Stefanny Oliveira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ninykiwi&theme=dracula&title_color=b19cd9&color=b19cd9&point=b19cd9&line=ffffff&bg_color=000000&hide_border=true)](https://github.com/ninykiwi/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
