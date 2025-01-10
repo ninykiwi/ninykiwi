@@ -25,8 +25,8 @@ Olá! 👋 Eu sou Stefanny
 # 📊 GitHub Stats:
 
 <p align=center>
- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ninykiwi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=b19cd9&text_color=b19cd9&icon_color=b19cd9&bg_color=000000" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninykiwi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=b19cd9&text_color=b19cd9&icon_color=b19cd9&bg_color=000000" />
+ <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ninykiwi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=9d4edd&text_color=c77dff&icon_color=e0aaff&bg_color=000000" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninykiwi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=9d4edd&text_color=c77dff&icon_color=e0aaff&bg_color=000000" />
 
 </p>
 
