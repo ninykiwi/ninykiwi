@@ -30,4 +30,6 @@ Olá! 👋 Eu sou Stefanny
 
 </p>
 
+![Stefanny Oliveira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ninykiwi&theme=dracula&title_color=b19cd9&color=b19cd9&point=b19cd9&line=white)](https://github.com/ninykiwi/github-readme-activity-graph)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
