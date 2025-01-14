@@ -3,6 +3,7 @@
  ☆ Currently a front-end software developer </br>
  ☆ Enthusiastic about learning new technologies </br>
 </br>
+
 <p align="center">
   <a href="mailto:stefannypdao@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-b19cd9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sefannypdao/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-b19cd9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,6 +27,11 @@ def profile():
 ```
 </br>
 
+### ˙✧˖ Now working on:
+ ☆ **Atipicidados:** A full-stack project that helps the external community, combining social impact and technology. </br>
+ ☆ **Process Scheduler Simulator:** Tool that emulates the scheduling of processes in an operating system to analyze and visualize performance under various algorithms like FIFO, EDF, SJF, or Round Robin. </br>
+ </br>
+ 
 ### ˙✧˖ Main Technologies:
 <p align=center>
 <img src="https://img.shields.io/badge/java-%23b19cd9.svg?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=b19cd9" alt="Java" />
